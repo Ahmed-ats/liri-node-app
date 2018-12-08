@@ -25,11 +25,3 @@ Gets random text inside a file and does what it says:
 
 node liri.js do-what-it-says
 
-![GitHub Logo](/images/Screenshot (8).png)
-Format: ![Alt Text](url)
-
-![GitHub Logo](/images/Screenshot (9).png)
-Format: ![Alt Text](url)
-
-![GitHub Logo](/images/Screenshot (10).png)
-Format: ![Alt Text](url)
