@@ -49,9 +49,9 @@ function getConcert() {
  
   axios.get(artistQueryUrl).then(
     function (response) {
-      // console.log(response)
+      
       var events = response.data;
-      console.log(events);
+      ;
       for (var i = 0; i < events.length; i++) {
         console.log(events[i].venue.name);
         console.log(events[i].venue.city);
